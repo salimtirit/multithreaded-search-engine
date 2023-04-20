@@ -49,7 +49,7 @@ In the Abstractor program, the [Jaccard Similarity metric](https://studymachinel
 An example test case is provided below and also as an attachment to the description. (Please
 see the abstract 3.txt and abstract 6.txt from abstracts folder.) Table 1 shows an input file,
 which expects you to run your program with two threads and scan four abstract files (namely
-abstract 1.txt, abstract 3.txt, abstract 6.txt, and abstract 5.txt) and return the top two results.
+abstract 1.txt, abstract 3.txt, abstract 6.txt, and abstract 5.txt) and return the top two results. <br>
 ![image](https://user-images.githubusercontent.com/64011660/233485783-0f787f64-c797-4b9e-913b-f9c79f668903.png)
 ![image](https://user-images.githubusercontent.com/64011660/233485936-5080e214-579d-4886-b69b-86197f64360c.png)
 Table 4 shows the output
