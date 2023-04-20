@@ -9,7 +9,7 @@ The Abstractor is powered by multithreading, which accelerates text processing. 
 ## Input & Output
 The final submission compiles and runs with the following commands:
 
-```
+```bash
 make
 ./abstractor.out <input_file> <output_file>
 ```
