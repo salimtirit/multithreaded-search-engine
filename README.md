@@ -57,4 +57,8 @@ file for the given input and abstract files. In this example, abstract 5 is the 
 sarscov2 remains a significant issue for global health economics and society .” is returned since it is the only sentence that contains two words from the given query with the score of 0.0400.
 ![image](https://user-images.githubusercontent.com/64011660/233486180-6fdc1b62-e96d-4deb-9121-bf265fc9530a.png)
 
+## Contributing
+If you have any suggestions or find any issues with the code, please feel free to contribute to the project by opening a pull request or creating an issue.
 
+## Credits
+This is the first project of CMPE322 Operating Systems class in Fall 2022.
